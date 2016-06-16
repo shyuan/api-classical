@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Sergei Rachmaninoff",
+        "works": [
+            {
+                "musical-ensemble": ["Piano", "Orchestra"],
+                "musical-form": "Piano Concerto",
+                "name": "Piano Concerto No. 1 in F-sharp minor, Op. 1",
+                "musical-form-series": 1,
+                "opus": 1,
+                "main-note": "F-sharp minor",
+                "movements": [
+                    {
+                        "tempo": "Vivace",
+                        "note": "F-sharp minor"
+                    },
+                    {
+                        "tempo": "Andante cantabile",
+                        "note": "D major"
+                    },
+                    {
+                        "tempo": "Allegro scherzando",
+                        "note": ["F-sharp minor","F-sharp major"]
+                    }
+                ]
+            },
+            {
+                "musical-ensemble": ["Piano", "Orchestra"],
+                "musical-form": "Piano Concerto",
+                "name": "Piano Concerto No. 2 in C minor, Op. 18",
+                "musical-form-series": 2,
+                "opus": 18,
+                "main-note": "C minor",
+                "movements": [
+                    {
+                        "tempo": "Moderato",
+                        "note": "C minor"
+                    },
+                    {
+                        "tempo": ["Adagio sostenuto", "Più animato", "Tempo I"],
+                        "note": ["C minor", "E major"]
+                    },
+                    {
+                        "tempo": "Allegro scherzando",
+                        "note": ["E major", "C minor", "C major"]
+                    }
+                ]
+            },
+            {
+                "musical-ensemble": ["Piano", "Orchestra"],
+                "musical-form": "Piano Concerto",
+                "name": "Piano Concerto No. 3 in D minor, Op. 30",
+                "musical-form-series": 3,
+                "opus": 30,
+                "main-note": "D minor",
+                "movements": [
+                    {
+                        "tempo": "Allegro ma non tanto",
+                        "note": "D minor"
+                    },
+                    {
+                        "tempo": "Adagio",
+                        "note": ["D minor", "F-sharp minor/D-flat major"]
+                    },
+                    {
+                        "tempo": "Alla breve",
+                        "note": ["D minor","D major"]
+                    }
+                ]
+            },
+            {
+                "musical-ensemble": ["Piano", "Orchestra"],
+                "musical-form": "Piano Concerto",
+                "name": "Piano Concerto No. 4 in G minor, Op. 40",
+                "musical-form-series": 4,
+                "opus": 40,
+                "main-note": "G minor",
+                "movements": [
+                    {
+                        "tempo": "Allegro vivace",
+                        "note": "G minor"
+                    },
+                    {
+                        "tempo": "Largo ",
+                        "note": "C major"
+                    },
+                    {
+                        "tempo": "Allegro vivace",
+                        "note": ["G minor","D-Flat Major","G major"]
+                    }
+                ]
+            }
+        ]
+    }
+]
