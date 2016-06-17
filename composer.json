@@ -1,0 +1,513 @@
+[
+    {
+        "id": 1,
+        "name": "Sergei Rachmaninoff",
+        "birth": 1873,
+        "death": 1943,
+        "wiki": "https://en.wikipedia.org/wiki/Sergei_Rachmaninoff"
+    },
+    {
+        "id": 2,
+        "name": "Ludwig van Beethoven",
+        "birth": 1770,
+        "death": 1827,
+        "wiki": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
+    },
+    {
+        "id": 3,
+        "name": "Johann Sebastian Bach",
+        "birth": 1685,
+        "death": 1750,
+        "wiki": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+    },
+    {
+        "id": 4,
+        "name": "Johann Pachelbel",
+        "birth": 1653,
+        "death": 1706,
+        "wiki": "https://en.wikipedia.org/wiki/Johann_Pachelbel"
+    },
+    {
+        "id": 5,
+        "name": "Arcangelo Corelli",
+        "birth": 1653,
+        "death": 1713,
+        "wiki": "https://en.wikipedia.org/wiki/Arcangelo_Corelli"
+    },
+    {
+        "id": 6,
+        "name": "Alessandro Scarlatti",
+        "birth": 1660,
+        "death": 1725,
+        "wiki": "https://en.wikipedia.org/wiki/Alessandro_Scarlatti"
+    },
+    {
+        "id": 7,
+        "name": "François Couperin",
+        "birth": 1668,
+        "death": 1733,
+        "wiki": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Couperin"
+    },
+    {
+        "id": 8,
+        "name": "George Frideric Handel",
+        "birth": 1685,
+        "death": 1759,
+        "wiki": "https://en.wikipedia.org/wiki/George_Frideric_Handel"
+    },
+    {
+        "id": 9,
+        "name": "Antonio Vivaldi",
+        "birth": 1678,
+        "death": 1741,
+        "wiki": "https://en.wikipedia.org/wiki/Antonio_Vivaldi"
+    },
+    {
+        "id": 10,
+        "name": "Giuseppe Tartini",
+        "birth": 1692,
+        "death": 1770,
+        "wiki": "https://en.wikipedia.org/wiki/Giuseppe_Tartini"
+    },
+    {
+        "id": 11,
+        "name": "Joseph Haydn",
+        "birth": 1732,
+        "death": 1809,
+        "wiki": "https://en.wikipedia.org/wiki/Joseph_Haydn"
+    },
+    {
+        "id": 12,
+        "name": "Sergei Prokofiev",
+        "birth": 1891,
+        "death": 1953,
+        "wiki": "https://en.wikipedia.org/wiki/Sergei_Prokofiev"
+    },
+    {
+        "id": 13,
+        "name": "Antonio Salieri",
+        "birth": 1750,
+        "death": 1825,
+        "wiki": "https://en.wikipedia.org/wiki/Antonio_Salieri"
+    },
+    {
+        "id": 14,
+        "name": "Wolfgang Amadeus Mozart",
+        "birth": 1756,
+        "death": 1791,
+        "wiki": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+    },
+    {
+        "id": 15,
+        "name": "Luigi Cherubini",
+        "birth": 1760,
+        "death": 1842,
+        "wiki": "https://en.wikipedia.org/wiki/Luigi_Cherubini"
+    },
+    {
+        "id": 16,
+        "name": "Anton Diabelli",
+        "birth": 1781,
+        "death": 1858,
+        "wiki": "https://en.wikipedia.org/wiki/Anton_Diabelli"
+    },
+    {
+        "id": 17,
+        "name": "Niccolò Paganini",
+        "birth": 1782,
+        "death": 1840,
+        "wiki": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini"
+    },
+    {
+        "id": 18,
+        "name": "Carl Maria von Weber",
+        "birth": 1786,
+        "death": 1826,
+        "wiki": "https://en.wikipedia.org/wiki/Carl_Maria_von_Weber"
+    },
+    {
+        "id": 19,
+        "name": "Carl Czerny",
+        "birth": 1791,
+        "death": 1857,
+        "wiki": "https://en.wikipedia.org/wiki/Carl_Czerny"
+    },
+    {
+        "id": 20,
+        "name": "Gioachino Rossini",
+        "birth": 1792,
+        "death": 1868,
+        "wiki": "https://en.wikipedia.org/wiki/Gioachino_Rossini"
+    },
+    {
+        "id": 21,
+        "name": "Gaetano Donizetti",
+        "birth": 1797,
+        "death": 1848,
+        "wiki": "https://en.wikipedia.org/wiki/Gaetano_Donizetti"
+    },
+    {
+        "id": 22,
+        "name": "Franz Schubert",
+        "birth": 1797,
+        "death": 1828,
+        "wiki": "https://en.wikipedia.org/wiki/Franz_Schubert"
+    },
+    {
+        "id": 23,
+        "name": "Hector Berlioz",
+        "birth": 1803,
+        "death": 1869,
+        "wiki": "https://en.wikipedia.org/wiki/Hector_Berlioz"
+    },
+    {
+        "id": 24,
+        "name": "Ferdinand Beyer",
+        "birth": 1803,
+        "death": 1863,
+        "wiki": "https://en.wikipedia.org/wiki/Ferdinand_Beyer"
+    },
+    {
+        "id": 25,
+        "name": "Johann Strauss I",
+        "birth": 1804,
+        "death": 1849,
+        "wiki": "https://en.wikipedia.org/wiki/Johann_Strauss_I"
+    },
+    {
+        "id": 26,
+        "name": "Felix Mendelssohn",
+        "birth": 1778,
+        "death": 1862,
+        "wiki": "https://en.wikipedia.org/wiki/Felix_Mendelssohn"
+    },
+    {
+        "id": 27,
+        "name": "Frédéric Chopin",
+        "birth": 1810,
+        "death": 1849,
+        "wiki": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin"
+    },
+    {
+        "id": 28,
+        "name": "Robert Schumann",
+        "birth": 1810,
+        "death": 1856,
+        "wiki": "https://en.wikipedia.org/wiki/Robert_Schumann"
+    },
+    {
+        "id": 29,
+        "name": "Franz Liszt",
+        "birth": 1811,
+        "death": 1886,
+        "wiki": "https://en.wikipedia.org/wiki/Franz_Liszt"
+    },
+    {
+        "id": 30,
+        "name": "Giuseppe Verdi",
+        "birth": 1813,
+        "death": 1901,
+        "wiki": "https://en.wikipedia.org/wiki/Giuseppe_Verdi"
+    },
+    {
+        "id": 31,
+        "name": "Richard Wagner",
+        "birth": 1813,
+        "death": 1883,
+        "wiki": "https://en.wikipedia.org/wiki/Richard_Wagner"
+    },
+    {
+        "id": 32,
+        "name": "Jacques Offenbach",
+        "birth": 1819,
+        "death": 1880,
+        "wiki": "https://en.wikipedia.org/wiki/Jacques_Offenbach"
+    },
+    {
+        "id": 33,
+        "name": "Clara Schumann",
+        "birth": 1819,
+        "death": 1896,
+        "wiki": "https://en.wikipedia.org/wiki/Clara_Schumann"
+    },
+    {
+        "id": 34,
+        "name": "Charles Gounod",
+        "birth": 1818,
+        "death": 1893,
+        "wiki": "https://en.wikipedia.org/wiki/Charles_Gounod"
+    },
+    {
+        "id": 35,
+        "name": "Henri Vieuxtemps",
+        "birth": 1820,
+        "death": 1881,
+        "wiki": "https://en.wikipedia.org/wiki/Henri_Vieuxtemps"
+    },
+    {
+        "id": 36,
+        "name": "Anton Bruckner",
+        "birth": 1824,
+        "death": 1896,
+        "wiki": "https://en.wikipedia.org/wiki/Anton_Bruckner"
+    },
+    {
+        "id": 37,
+        "name": "Bedřich Smetana",
+        "birth": 1824,
+        "death": 1884,
+        "wiki": "https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana"
+    },
+    {
+        "id": 38,
+        "name": "Johann Strauss II",
+        "birth": 1825,
+        "death": 1899,
+        "wiki": "https://en.wikipedia.org/wiki/Johann_Strauss_II"
+    },
+    {
+        "id": 39,
+        "name": "Anton Rubinstein",
+        "birth": 1829,
+        "death": 1894,
+        "wiki": "https://en.wikipedia.org/wiki/Anton_Rubinstein"
+    },
+    {
+        "id": 40,
+        "name": "Alexander Borodin",
+        "birth": 1833,
+        "death": 1887,
+        "wiki": "https://en.wikipedia.org/wiki/Alexander_Borodin"
+    },
+    {
+        "id": 41,
+        "name": "Camille Saint-Saëns",
+        "birth": 1835,
+        "death": 1921,
+        "wiki": "https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns"
+    },
+    {
+        "id": 42,
+        "name": "Georges Bizet",
+        "birth": 1838,
+        "death": 1875,
+        "wiki": "https://en.wikipedia.org/wiki/Georges_Bizet"
+    },
+    {
+        "id": 43,
+        "name": "Max Bruch",
+        "birth": 1838,
+        "death": 1920,
+        "wiki": "https://en.wikipedia.org/wiki/Max_Bruch"
+    },
+    {
+        "id": 44,
+        "name": "Modest Mussorgsky",
+        "birth": 1839,
+        "death": 1881,
+        "wiki": "https://en.wikipedia.org/wiki/Modest_Mussorgsky"
+    },
+    {
+        "id": 45,
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "birth": 1840,
+        "death": 1893,
+        "wiki": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
+    },
+    {
+        "id": 46,
+        "name": "Antonín Dvořák",
+        "birth": 1841,
+        "death": 1904,
+        "wiki": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k"
+    },
+    {
+        "id": 47,
+        "name": "Nikolai Rimsky-Korsakov",
+        "birth": 1844,
+        "death": 1908,
+        "wiki": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov"
+    },
+    {
+        "id": 48,
+        "name": "Pablo de Sarasate",
+        "birth": 1844,
+        "death": 1908,
+        "wiki": "https://en.wikipedia.org/wiki/Pablo_de_Sarasate"
+    },
+    {
+        "id": 49,
+        "name": "Gabriel Fauré",
+        "birth": 1845,
+        "death": 1924,
+        "wiki": "https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9"
+    },
+    {
+        "id": 50,
+        "name": "Leoš Janáček",
+        "birth": 1854,
+        "death": 1928,
+        "wiki": "https://en.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek"
+    },
+    {
+        "id": 51,
+        "name": "Edward Elgar",
+        "birth": 1857,
+        "death": 1934,
+        "wiki": "https://en.wikipedia.org/wiki/Edward_Elgar"
+    },
+    {
+        "id": 52,
+        "name": "Giacomo Puccini",
+        "birth": 1858,
+        "death": 1924,
+        "wiki": "https://en.wikipedia.org/wiki/Giacomo_Puccini"
+    },
+    {
+        "id": 53,
+        "name": "Eugène Ysaÿe",
+        "birth": 1858,
+        "death": 1931,
+        "wiki": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ysa%C3%BFe"
+    },
+    {
+        "id": 54,
+        "name": "Gustav Mahler",
+        "birth": 1860,
+        "death": 1911,
+        "wiki": "https://en.wikipedia.org/wiki/Gustav_Mahler"
+    },
+    {
+        "id": 55,
+        "name": "Claude Debussy",
+        "birth": 1862,
+        "death": 1918,
+        "wiki": "https://en.wikipedia.org/wiki/Claude_Debussy"
+    },
+    {
+        "id": 56,
+        "name": "Richard Strauss",
+        "birth": 1864,
+        "death": 1949,
+        "wiki": "https://en.wikipedia.org/wiki/Richard_Strauss"
+    },
+    {
+        "id": 57,
+        "name": "Alexander Glazunov",
+        "birth": 1865,
+        "death": 1936,
+        "wiki": "https://en.wikipedia.org/wiki/Alexander_Glazunov"
+    },
+    {
+        "id": 58,
+        "name": "Jean Sibelius",
+        "birth": 1865,
+        "death": 1957,
+        "wiki": "https://en.wikipedia.org/wiki/Jean_Sibelius"
+    },
+    {
+        "id": 59,
+        "name": "Ferruccio Busoni",
+        "birth": 1866,
+        "death": 1924,
+        "wiki": "https://en.wikipedia.org/wiki/Ferruccio_Busoni"
+    },
+    {
+        "id": 60,
+        "name": "Erik Satie",
+        "birth": 1866,
+        "death": 1925,
+        "wiki": "https://en.wikipedia.org/wiki/Erik_Satie"
+    },
+    {
+        "id": 61,
+        "name": "Alexander Scriabin",
+        "birth": 1872,
+        "death": 1915,
+        "wiki": "https://en.wikipedia.org/wiki/Alexander_Scriabin"
+    },
+    {
+        "id": 62,
+        "name": "Ralph Vaughan Williams",
+        "birth": 1872,
+        "death": 1958,
+        "wiki": "https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams"
+    },
+    {
+        "id": 63,
+        "name": "Gustav Holst",
+        "birth": 1874,
+        "death": 1934,
+        "wiki": "https://en.wikipedia.org/wiki/Gustav_Holst"
+    },
+    {
+        "id": 64,
+        "name": "Arnold Schoenberg",
+        "birth": 1874,
+        "death": 1951,
+        "wiki": "https://en.wikipedia.org/wiki/Arnold_Schoenberg"
+    },
+    {
+        "id": 65,
+        "name": "Maurice Ravel",
+        "birth": 1875,
+        "death": 1937,
+        "wiki": "https://en.wikipedia.org/wiki/Maurice_Ravel"
+    },
+    {
+        "id": 66,
+        "name": "Béla Bartók",
+        "birth": 1881,
+        "death": 1945,
+        "wiki": "https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k"
+    },
+    {
+        "id": 67,
+        "name": "Igor Stravinsky",
+        "birth": 1882,
+        "death": 1971,
+        "wiki": "https://en.wikipedia.org/wiki/Igor_Stravinsky"
+    },
+    {
+        "id": 68,
+        "name": "Karol Szymanowski",
+        "birth": 1882,
+        "death": 1937,
+        "wiki": "https://en.wikipedia.org/wiki/Karol_Szymanowski"
+    },
+    {
+        "id": 69,
+        "name": "Domenico Scarlatti",
+        "birth": 1685,
+        "death": 1757,
+        "wiki": "https://en.wikipedia.org/wiki/Domenico_Scarlatti"
+    },
+    {
+        "id": 70,
+        "name": "George Gershwin",
+        "birth": 1898,
+        "death": 1937,
+        "wiki": "https://en.wikipedia.org/wiki/George_Gershwin"
+    },
+    {
+        "id": 71,
+        "name": "Dmitri Shostakovich",
+        "birth": 1906,
+        "death": 1975,
+        "wiki": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich"
+    },
+    {
+        "id": 72,
+        "name": "Toru Takemitsu",
+        "birth": 1930,
+        "death": 1996,
+        "wiki": "https://en.wikipedia.org/wiki/Toru_Takemitsu"
+    }
+
+
+
+
+
+
+
+]
